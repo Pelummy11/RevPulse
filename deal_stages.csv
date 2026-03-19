@@ -1,0 +1,7 @@
+stage_id,stage_name,win_probability
+1,Lead,0.1
+2,Qualified,0.3
+3,Proposal,0.6
+4,Negotiation,0.8
+5,Closed Won,1.0
+6,Closed Lost,0.0
